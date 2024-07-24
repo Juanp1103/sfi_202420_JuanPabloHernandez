@@ -5,3 +5,5 @@
 3. *git es un sistema de control de versiones que te permite tener acceso a codigos antiguos, mientras github es un sistema hosting que puedes conectar con git asi clonar repositorios y poder colaboorar con otras personas
 *git es un sistema local que no necesita internet, github es necesario tener conexion a internet ya que este sube la informacion en la nube
 *la forma en que se usa, ya que git se usa por consola, mientras que github ya tiene una sistema mas visual por el que entras y controlas por medio de un navegador
+
+4. El area de trabajo es donde puedes hacer las modificaciones, area de preparacion es donde haces las revisiones y creas mensajes, y el directorio git es cuando haces un commit y guardas los cambios que se realizaron
