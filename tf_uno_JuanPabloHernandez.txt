@@ -1,3 +1,7 @@
 1. Un sistema de control de versiones es una aplicacion que tiene como idea principal poder tener, como lo dice su nombre, diferentes versiones de un mismo archivo, sin necesidad de estar creando constantemente un archivo nuevo, tambien permitiendote el acceso a dichas versiones anteriores de este.
 
 2. Un repositorio local es cuando solo un computador esta guardando la informacion, mientras que un repositorio remoto guarda la informacion en la nube, dandole acceso a mas de una persona, permitiendo clonar dicho repositorio en diferentes computadores.
+
+3. *git es un sistema de control de versiones que te permite tener acceso a codigos antiguos, mientras github es un sistema hosting que puedes conectar con git asi clonar repositorios y poder colaboorar con otras personas
+*git es un sistema local que no necesita internet, github es necesario tener conexion a internet ya que este sube la informacion en la nube
+*la forma en que se usa, ya que git se usa por consola, mientras que github ya tiene una sistema mas visual por el que entras y controlas por medio de un navegador
